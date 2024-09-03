@@ -1,0 +1,2 @@
+# story
+Practicing some git 
